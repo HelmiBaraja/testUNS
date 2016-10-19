@@ -10,7 +10,7 @@ public class Book {
 
     public Book ()
     {
-
+        Log.d("test", "test");
     }
 
     public Book (String title, String edition)
